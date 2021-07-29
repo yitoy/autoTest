@@ -1,4 +1,4 @@
-from Common.getTokenConfig import *
+from SaaSFlowTest.Common.getTokenConfig import *
 import pymysql
 class global_var:
     '''需要定义全局变量的放在这里，最好定义一个初始值'''

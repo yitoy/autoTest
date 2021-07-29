@@ -5,7 +5,7 @@ import pymysql
 import json
 import datetime
 import time
-from Common.newReadConfig import *
+from SaaSFlowTest.Common.readConfig import *
 
 
 # 发货宝web端操作用户18883612485
