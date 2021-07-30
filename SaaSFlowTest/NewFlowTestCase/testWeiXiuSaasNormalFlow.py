@@ -4,7 +4,7 @@ import json
 import datetime
 import time
 #导入公用参数readConfig.py
-from Common.readConfig import *
+from SaaSFlowTest.Common.readConfig import *
 
 class TestMethod(unittest.TestCase):    # 定义一个类，继承自unittest.TestCase
     '''维修正常流程测试'''

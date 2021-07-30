@@ -5,8 +5,8 @@ import json
 import datetime
 import time
 import unittest
-from Common.operation_excle import *
-from Common.readConfig import *
+from SaaSFlowTest.Common.operation_excle import *
+from SaaSFlowTest.Common.readConfig import *
 
 # 发货宝web端操作用户18883612485，headers1发货宝用户,headers2小二用户
 api_host=global_var.api_host #测试地址：192.168.10.56

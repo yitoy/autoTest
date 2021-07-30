@@ -5,7 +5,7 @@ import json
 import datetime
 import time
 import unittest
-from Common.readConfig import *
+from SaaSFlowTest.Common.readConfig import *
 
 # 发货宝web端操作用户18883612485，headers1发货宝用户,headers2小二用户
 

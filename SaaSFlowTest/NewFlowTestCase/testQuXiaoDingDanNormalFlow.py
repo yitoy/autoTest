@@ -4,7 +4,7 @@ import json
 import datetime
 import time
 import unittest
-from Common.readConfig import *
+from SaaSFlowTest.Common.readConfig import *
 
 api_host=global_var.api_host #测试地址：192.168.10.56
 headers1=global_var.headers4 #发货宝18883612485
